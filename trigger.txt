@@ -1,1 +1,1 @@
-kubesphere/openelb-speaker:master registry.cn-hangzhou.aliyuncs.com/aliyun_0612/learn:master
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.1.1 registry.cn-hangzhou.aliyuncs.com/aliyun_0612/learn:v1.1.1
