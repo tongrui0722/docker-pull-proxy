@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+kubesphere/openelb-speaker:master registry.cn-hangzhou.aliyuncs.com/aliyun_0612/learn:kubesphere/openelb-speaker:master
