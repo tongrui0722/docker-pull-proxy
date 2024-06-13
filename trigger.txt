@@ -1,1 +1,1 @@
-kubesphere/openelb-controller:master registry.cn-hangzhou.aliyuncs.com/aliyun_0612/learn:controllermaster
+kubesphere/openelb-speaker:master registry.cn-hangzhou.aliyuncs.com/aliyun_0612/openelb-speaker:master
