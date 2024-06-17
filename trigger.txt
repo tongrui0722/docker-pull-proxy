@@ -1,1 +1,1 @@
-registry.k8s.io/sig-storage/csi-snapshotter:v6.3.3 registry.cn-hangzhou.aliyuncs.com/aliyun_0612/learn:v6.3.3
+apache/kafka:3.7.0 registry.cn-hangzhou.aliyuncs.com/aliyun_0612/learn:kafka3.7
