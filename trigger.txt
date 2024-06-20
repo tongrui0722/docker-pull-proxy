@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.23.5 registry.cn-hangzhou.aliyuncs.com/aliyun_0612/learn:controller3235
+calico/node:v3.23.5 registry.cn-hangzhou.aliyuncs.com/aliyun_0612/learn:node3235
