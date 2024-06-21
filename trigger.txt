@@ -1,1 +1,1 @@
-bitnami/zookeeper:3.6.3  registry.cn-hangzhou.aliyuncs.com/aliyun_0612/zookeeper:3.6.3 
+bitnami/kafka:2.8.1  registry.cn-hangzhou.aliyuncs.com/aliyun_0612/kafka:2.8.1
