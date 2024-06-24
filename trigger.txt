@@ -1,1 +1,1 @@
-openjdk:11  registry.cn-hangzhou.aliyuncs.com/aliyun_0612/openjdk:11
+openjdk:8  registry.cn-hangzhou.aliyuncs.com/aliyun_0612/openjdk:8
