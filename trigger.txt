@@ -1,1 +1,1 @@
-bitnami/kafka:3.1.0  registry.cn-hangzhou.aliyuncs.com/aliyun_0612/kafka:3.1.0
+registry.k8s.io/metrics-server/metrics-server:v0.7.1  registry.cn-hangzhou.aliyuncs.com/aliyun_0612/metrics-server:v0.7.1
